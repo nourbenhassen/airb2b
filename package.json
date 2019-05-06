@@ -11,11 +11,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@types/request": "2.48.1",
     "express": "4.16.4",
     "lodash": "4.17.11",
     "react": "16.8.3",
     "react-dom": "16.8.3",
-    "request": "2.88.0",
+    "superagent": "5.0.5",
     "ts-node": "8.0.2",
     "typescript": "3.3.3333"
   },
